@@ -5,7 +5,12 @@
 The **Classic Models Sales Dashboard** is an interactive Excel dashboard built using the Classic Models dataset. It provides a comprehensive analysis of sales performance across countries, product lines, products, employees, and time periods. The dashboard enables users to explore business performance through interactive slicers, KPI cards, and dynamic charts.
 
 ---
+## 📷 Dashboard Preview
 
+
+<img width="1872" height="630" alt="dashbord" src="https://github.com/user-attachments/assets/02f79512-5e39-4408-b9ac-ec9f9a0dc0a3" />
+
+---
 ## 🎯 Project Objectives
 
 - Analyze overall sales performance.
@@ -89,13 +94,6 @@ Main tables used:
 - Payments
 
 ---
-
-## 📷 Dashboard Preview
-
-
-<img width="1872" height="630" alt="dashbord" src="https://github.com/user-attachments/assets/02f79512-5e39-4408-b9ac-ec9f9a0dc0a3" />
-
-
 
 ## 📁 Repository Structure
 
